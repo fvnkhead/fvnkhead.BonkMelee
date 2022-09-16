@@ -1,0 +1,6 @@
+{
+    "Name": "fvnkhead.BonkMelee",
+    "Description": "Makes melee bonk",
+    "Version": "1.0.0",
+    "LoadPriority": 10
+}
